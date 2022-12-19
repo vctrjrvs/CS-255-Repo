@@ -1,6 +1,5 @@
 # Victor Jarvis
 ## CS 255
----
 
 ### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The client, DriverPass, wanted an application designed to help students pass their driving tests, with features enabling studentst to set up appointments with instructors and view their progress on various online practice exams they can take to assist in their studies.
